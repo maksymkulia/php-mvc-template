@@ -1,2 +1,3 @@
-# php-mvc-template
-MVC Template on PHP 
+# PHP MVC TEMPLATE
+
+Here I will write long and detailed description
